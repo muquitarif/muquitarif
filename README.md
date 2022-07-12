@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 
 This is Muquit, a creative graphics designer & front-end development student. 
 Got any questions, feel free to ask :)
