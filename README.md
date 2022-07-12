@@ -1,4 +1,4 @@
-### Hi there 👋 This is Muquit, a creative graphics designer & frontend development student. 
+### Hi there 👋 This is Muquit, a creative graphics designer & front-end development student. 
 Helping brands to achieve their goals with his creativity. 
 Got any questions, feel free to send your message :)
 
