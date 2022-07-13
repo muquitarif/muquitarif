@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Muquit Arif
 
-A creative graphics designer & front-end development student. 
+A creative graphics designer & front-end web development student. 
 Got any questions, feel free to ask :)
 
 ## 🔗 Links
