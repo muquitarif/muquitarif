@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Muquit
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&width=435&lines=Welcome!)](https://git.io/typing-svg)
+# Hi there 👋 I'm Muquit
 
 A creative graphics designer & frontend web development student. 
 Got any questions, feel free to ask :)
