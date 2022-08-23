@@ -22,7 +22,7 @@ Got any questions, feel free to ask :)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muquitarif&theme=github_dark) 
 
 ### Profile Views
-![](https://komarev.com/ghpvc/?username=muquitarif&color=green)
+![](https://komarev.com/ghpvc/?username=muquitarif&color=blue)
 
 
 
