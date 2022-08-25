@@ -4,7 +4,8 @@
 A creative graphics designer & frontend web development student. 
 Got any questions, feel free to ask :)
 
-### Linkedin 
+
+### Social
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muquit-arif)
 
 ### Skills
@@ -17,10 +18,9 @@ Got any questions, feel free to ask :)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muquitarif&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muquitarif&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muquitarif&theme=github_dark) 
+![](https://github-readme-stats.vercel.app/api?username=muquitarif&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muquitarif&langs_count=8&theme=github_dark&layout=compact)
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=muquitarif&color=blue)
 
