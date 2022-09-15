@@ -17,9 +17,6 @@ Got any questions, feel free to ask :)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=muquitarif&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muquitarif&langs_count=8&theme=github_dark&layout=compact)
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=muquitarif&color=blue)
