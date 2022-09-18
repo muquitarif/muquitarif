@@ -5,7 +5,7 @@ A creative graphics designer & frontend web development student.
 Got any questions, feel free to ask :)
 
 ![Currently Learning](https://img.shields.io/badge/Currently_Learning-Javascript-blue.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=muquitarif&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=muquitarif&color=orange)
 
 ### Skills
 ![My skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,c,cpp)
