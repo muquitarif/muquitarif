@@ -14,9 +14,6 @@ Got any questions, feel free to ask :)
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muquitarif&langs_count=8&theme=github_dark&layout=compact)
 
-### How to Contact Me?
-📫 Email: Muquitarif2@gmail.com
-
 
 
 
