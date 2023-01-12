@@ -11,8 +11,6 @@ Got any questions, feel free to ask :)
 ### Skills
 ![My skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,c,cpp)
 
-### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muquitarif&langs_count=8&theme=github_dark&layout=compact)
 
 
 
