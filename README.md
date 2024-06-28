@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&width=435&lines=Welcome!)](https://git.io/typing-svg)
+# Hi there! 👋
 
-Hi there! 👋 I'm Muquit
+I'm a tech enthusiast passionate about:
 
-I'm a creative graphics designer and a frontend web development student. If you have any questions or need assistance, feel free to ask. I'm here to help.
+- **Embedded Systems** ⚡
+- **Robotics** 🤖
+- **Internet of Things (IoT)** 📡
+- **Web Development** 🌐
 
-    💻 I'm passionate about designing visually appealing graphics and creating user-friendly websites.
-    🔭 I'm always exploring new technologies and trends in the world of web development.
-    🎨 I enjoy unleashing my creativity to design aesthetically pleasing user interfaces.
+## About Me
 
-Get in Touch
-
-Feel free to connect with me on LinkedIn or check out my portfolio to see some of my work.
+I'm always excited to explore new technologies and apply my skills to solve real-world problems. Whether it's building a robot, creating a smart device, or developing a web application, I'm dedicated to continuous learning and innovation.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muquitarif&color=orange)
 
